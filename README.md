@@ -6,7 +6,8 @@ https://user-images.githubusercontent.com/96545188/173207639-d7a056ad-2eb4-410d-
 
 ## Background
 
-<i>Data is more powerful when we share it with others!</i> Use HTML and CSS to create a dashboard featuring analysis that we've done.
+<i>Data is more powerful when we share it with others!</i> 
+Use HTML and CSS to create a dashboard featuring previous analysis from a past assignment.
 
 ## Instructions 
 
@@ -34,7 +35,7 @@ The website must consist of seven pages in total, including:
 
   * A descriptive title and heading tag.
 
-  * The plot or visualisation for the selected comparison (latitude vs: max temperature, humidity, cloudiness, or wind speed). The images displayed on these pages should be stored in the `assets/images` folder.
+  * The plot or visualisation for the selected comparisons (latitude vs: max temperature, humidity, cloudiness, or wind speed). The images displayed on these pages should be stored in the `assets/images` folder.
 
   * A paragraph describing the plot and its significance.
 
